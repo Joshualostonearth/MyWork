@@ -1,0 +1,13 @@
+h1{
+  color: red;
+  border-bottom: 5px dashed
+}
+h2{
+  font-style :italic
+
+}
+.box{
+  border:10px darkred;
+  background:pink;
+  padding:10px;
+}
